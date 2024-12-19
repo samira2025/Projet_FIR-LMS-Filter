@@ -23,8 +23,8 @@ Ces filtres sont utilisés pour améliorer la qualité des données traitées da
 ├── src/                # Code source (MATLAB, HDL, System Generator)
 ├── simulations/        # Résultats des simulations
 ├── documentation/      # Rapport final, images, et schémas
-├── LICENSE             # Type et clause de licence
-└── issues/             # Suivi des bugs et solutions
+└── LICENSE             # Type et clause de licence
+
 
 
 4. Licence  
